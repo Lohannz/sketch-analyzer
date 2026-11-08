@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Saídas geradas, código antigo e imagens de terceiros
+output/
+_legado/
+data/input/

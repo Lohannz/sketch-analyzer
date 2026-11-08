@@ -1,0 +1,77 @@
+{
+  "arquivo": "corpo_inteiro.jpg",
+  "pontos": {
+    "topo_cabeca": [
+      185,
+      39
+    ],
+    "queixo": [
+      178,
+      117
+    ],
+    "olho_esq": [
+      180,
+      75
+    ],
+    "olho_dir": [
+      196,
+      83
+    ],
+    "nariz": [
+      190,
+      90
+    ],
+    "boca": [
+      183,
+      103
+    ],
+    "ombro_esq": [
+      88,
+      157
+    ],
+    "ombro_dir": [
+      221,
+      155
+    ],
+    "cotovelo_esq": [
+      79,
+      268
+    ],
+    "cotovelo_dir": [
+      257,
+      257
+    ],
+    "punho_esq": [
+      46,
+      363
+    ],
+    "punho_dir": [
+      272,
+      353
+    ],
+    "quadril_esq": [
+      86,
+      319
+    ],
+    "quadril_dir": [
+      187,
+      318
+    ],
+    "joelho_esq": [
+      125,
+      529
+    ],
+    "joelho_dir": [
+      231,
+      511
+    ],
+    "tornozelo_esq": [
+      133,
+      677
+    ],
+    "tornozelo_dir": [
+      249,
+      689
+    ]
+  }
+}
